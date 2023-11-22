@@ -21,7 +21,7 @@
 
 
 
-## 완강 목록
+## 인프런 - 완강 목록
 
 ![3](https://github.com/fxzz/StudyRoadMap/assets/3148006/ba0a5db7-db16-43d6-a2c6-f7c2ece22312)
 
@@ -32,7 +32,7 @@
 
 ### 2023.05.31 ~ 2023.11.01 패스트캠퍼스
 
-## 완강 목록
+## 패스트캠퍼스 - 완강 목록
 
 스프링의 정석 : 남궁성과 끝까지 간다 <br><br>
 
@@ -47,3 +47,55 @@ The RED : 비즈니스 성공을 위한 Java/Spring 기반 서비스 개발과 M
 The Red : 4천만 MAU를 지탱하는 서비스 설계와 데이터 처리 기술 <br><br>
 
 박은종의 객체지향 설계를 위한 디자인패턴 with 자바 <br><br>
+
+
+
+###  2023.11.01 ~ 공부중 
+
+
+![5](https://github.com/fxzz/StudyRoadMap/assets/3148006/5fb6dff2-ca4e-4c82-9697-b54566c46191)
+
+
+### 수강증
+
+[패스트캠퍼스 교육과정 수료 증명서.pdf](https://github.com/fxzz/StudyRoadMap/files/13433225/default.pdf)
+
+[fastcampus-수료증명서-FC-231016-CA0019.pdf](https://github.com/fxzz/StudyRoadMap/files/13433226/fastcampus-.-FC-231016-CA0019.pdf)
+
+[fastcampus-수료증명서-FC-231016-CA0010.pdf](https://github.com/fxzz/StudyRoadMap/files/13433227/fastcampus-.-FC-231016-CA0010.pdf)
+
+[fastcampus-수료증명서-FC-231015-CA0007.pdf](https://github.com/fxzz/StudyRoadMap/files/13433228/fastcampus-.-FC-231015-CA0007.pdf)
+
+[fastcampus-수료증명서-FC-231015-CA0006.pdf](https://github.com/fxzz/StudyRoadMap/files/13433229/fastcampus-.-FC-231015-CA0006.pdf)
+
+[fastcampus-수료증명서-FC-231015-CA0005.pdf](https://github.com/fxzz/StudyRoadMap/files/13433231/fastcampus-.-FC-231015-CA0005.pdf)
+
+[fastcampus-수료증명서-FC-231015-CA0004.pdf](https://github.com/fxzz/StudyRoadMap/files/13433232/fastcampus-.-FC-231015-CA0004.pdf)
+
+
+
+
+
+
+![Untitled (11)](https://github.com/fxzz/StudyRoadMap/assets/3148006/7fe11216-5146-4cb2-abc6-d984b0816598)
+![Untitled (12)](https://github.com/fxzz/StudyRoadMap/assets/3148006/162f9403-6cf7-4d17-9dbc-a592d3e1df0f)
+![Untitled](https://github.com/fxzz/StudyRoadMap/assets/3148006/6c5082b9-90e2-407d-8991-a706c15cee55)
+![Untitled (1)](https://github.com/fxzz/StudyRoadMap/assets/3148006/bf19d81a-f1ac-46a3-9288-7f3fa084f793)
+![Untitled (2)](https://github.com/fxzz/StudyRoadMap/assets/3148006/839030a6-ac85-441a-b73e-1b37c7bd3ba2)
+![Untitled (3)](https://github.com/fxzz/StudyRoadMap/assets/3148006/25e44d26-7458-41a9-ae54-4223045fe297)
+![Untitled (4)](https://github.com/fxzz/StudyRoadMap/assets/3148006/9f97d801-0972-4ba5-aec8-aa7870b7786a)
+![Untitled (5)](https://github.com/fxzz/StudyRoadMap/assets/3148006/6a1d8298-1f75-4fb6-8d27-c77db0bf08bf)
+![Untitled (6)](https://github.com/fxzz/StudyRoadMap/assets/3148006/39bfc252-d8ea-40e6-ab0d-bd9bc64ef8f3)
+![Untitled (7)](https://github.com/fxzz/StudyRoadMap/assets/3148006/53a435b5-ede0-435e-952f-f6a69379daa0)
+![Untitled (8)](https://github.com/fxzz/StudyRoadMap/assets/3148006/9ff35dfd-1146-4b6f-8d81-204e1625b6ef)
+![Untitled (9)](https://github.com/fxzz/StudyRoadMap/assets/3148006/2a0766b1-2fbe-4ada-aa0a-8a4363916d6f)
+![Untitled (10)](https://github.com/fxzz/StudyRoadMap/assets/3148006/c08bb5c8-1434-4688-9f8a-c0cb3b0a521c)
+
+
+
+
+
+
+
+
+
