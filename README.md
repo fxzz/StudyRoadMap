@@ -58,19 +58,14 @@ The Red : 4천만 MAU를 지탱하는 서비스 설계와 데이터 처리 기�
 
 ### 수강증
 
-[패스트캠퍼스 교육과정 수료 증명서.pdf](https://github.com/fxzz/StudyRoadMap/files/13433225/default.pdf)
+![Untitled (6)](https://github.com/fxzz/StudyRoadMap/assets/3148006/1ad481b0-1904-4873-9c3f-4c3b9531c0e9)
+![Untitled](https://github.com/fxzz/StudyRoadMap/assets/3148006/1058629f-0116-4c5c-b16e-8c56e5ee0e5a)
+![Untitled (1)](https://github.com/fxzz/StudyRoadMap/assets/3148006/6fc568ef-76a3-46ff-b624-76dff2298935)
+![Untitled (2)](https://github.com/fxzz/StudyRoadMap/assets/3148006/7a184ffe-a160-426d-af9d-ff4f5d486b41)
+![Untitled (3)](https://github.com/fxzz/StudyRoadMap/assets/3148006/16497d33-453d-4c0d-bb98-0e587c388359)
+![Untitled (4)](https://github.com/fxzz/StudyRoadMap/assets/3148006/e518de0b-c317-4bf1-948a-bf269bc22530)
+![Untitled (5)](https://github.com/fxzz/StudyRoadMap/assets/3148006/91aec844-b2a1-40b2-83bd-0f25761cffb7)
 
-[fastcampus-수료증명서-FC-231016-CA0019.pdf](https://github.com/fxzz/StudyRoadMap/files/13433226/fastcampus-.-FC-231016-CA0019.pdf)
-
-[fastcampus-수료증명서-FC-231016-CA0010.pdf](https://github.com/fxzz/StudyRoadMap/files/13433227/fastcampus-.-FC-231016-CA0010.pdf)
-
-[fastcampus-수료증명서-FC-231015-CA0007.pdf](https://github.com/fxzz/StudyRoadMap/files/13433228/fastcampus-.-FC-231015-CA0007.pdf)
-
-[fastcampus-수료증명서-FC-231015-CA0006.pdf](https://github.com/fxzz/StudyRoadMap/files/13433229/fastcampus-.-FC-231015-CA0006.pdf)
-
-[fastcampus-수료증명서-FC-231015-CA0005.pdf](https://github.com/fxzz/StudyRoadMap/files/13433231/fastcampus-.-FC-231015-CA0005.pdf)
-
-[fastcampus-수료증명서-FC-231015-CA0004.pdf](https://github.com/fxzz/StudyRoadMap/files/13433232/fastcampus-.-FC-231015-CA0004.pdf)
 
 
 
